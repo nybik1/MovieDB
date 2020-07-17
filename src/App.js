@@ -10,7 +10,6 @@ import MovieDetails from './components/MovieDetails/MovieDetails';
 // import Nav from './components/Nav';
 import About from './components/About';
 import FavoriteMovies from './components/Favorites';
-import { Link } from 'react-router-dom';
 
 
 
